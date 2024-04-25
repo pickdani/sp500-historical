@@ -1,6 +1,4 @@
-# sp500-historical-prices
-
-Daily historical stock price data from all SP500 constituents
+Daily historical SP500 stock prices.
 
 Starting from the first trade date to 2024-04-24.
 
