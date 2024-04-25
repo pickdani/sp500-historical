@@ -1,1 +1,0 @@
-# sp500-historical-prices
